@@ -9,6 +9,8 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allow pushing local backup changes back to repository
 
     steps:
     - name: Checkout repository
