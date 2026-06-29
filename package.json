@@ -1,0 +1,9 @@
+{
+  "name": "happy-food-time",
+  "version": "1.0.0",
+  "description": "HappyFoodTime Portal",
+  "scripts": {
+    "build": "echo 'No build step needed'"
+  },
+  "dependencies": {}
+}
