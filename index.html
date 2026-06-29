@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HappyFoodTime | 全台地方特色小吃導航地圖</title>
+    
+    <!-- Google Analytics (GA4) -->
+    <!-- [提示] 請將 G-XXXXXXXXXX 替換為您的 Google Analytics 衡量 ID -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-XXXXXXXXXX');
+    </script>
+
+    <!-- Google AdSense -->
+    <!-- [提示] 請將 ca-pub-XXXXXXXXXXXXXXXX 替換為您的 AdSense 發布商 ID -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
+         crossorigin="anonymous"></script>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700;900&family=Orbitron:wght@400;600;800;900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="cyber-theme">
+    <!-- Cyberpunk Animated Grid Background -->
+    <div class="cyber-grid"></div>
+    <div class="particles-container" id="particles"></div>
+
+    <!-- Preloader -->
+    <div class="preloader" id="preloader">
+        <div class="loader-content">
+            <div class="cyber-logo">HappyFoodTime</div>
+            <div class="loader-bar">
+                <div class="loader-progress" id="loader-progress"></div>
+            </div>
+            <div class="loader-status" id="loader-status">INITIALIZING SYSTEM...</div>
+        </div>
+    </div>
+
+    <!-- Main Container -->
+    <div class="app-container">
+        
+        <!-- Header -->
+        <header class="cyber-header">
+            <div class="header-logo-group">
+                <div class="glitch-wrapper">
+                    <h1 class="glitch-text" data-text="HappyFoodTime">HappyFoodTime</h1>
+                </div>
+                <div class="header-subtitle">LOCAL FOOD PORTAL // 全台小吃導航入口</div>
+            </div>
+            <div class="system-time">
+                <span class="pulse-dot" style="background-color: var(--neon-cyan); box-shadow: 0 0 8px var(--neon-cyan);"></span>
+                SYSTEM VIEWS // 累計瀏覽次數: <span id="view-counter" style="color: #fff;">0</span>
+            </div>
+        </header>
+
+        <!-- Theme Tab Switcher -->
+        <section class="theme-switcher">
+            <button class="theme-tab active" data-theme="food">
+                <span class="tab-glitch-bg"></span>
+                <span class="tab-icon">🍔</span>
+                <span class="tab-text">我想吃的 // FOOD</span>
+            </button>
+            <button class="theme-tab" data-theme="stay">
+                <span class="tab-glitch-bg"></span>
+                <span class="tab-icon">🏨</span>
+                <span class="tab-text">我想住的 // STAY</span>
+            </button>
+            <button class="theme-tab" data-theme="play">
+                <span class="tab-glitch-bg"></span>
+                <span class="tab-icon">🗺️</span>
+                <span class="tab-text">我想去的 // PLAY</span>
+            </button>
+            <button class="theme-tab" data-theme="camp">
+                <span class="tab-glitch-bg"></span>
+                <span class="tab-icon">⛺</span>
+                <span class="tab-text">我的露營區 // CAMP</span>
+            </button>
+        </section>
+
+        <!-- Stats Dashboard (Sanitized Fact statistics only) -->
+        <section class="stats-dashboard">
+            <div class="stat-card" data-neon="cyan">
+                <div class="stat-icon">
+                    <svg viewBox="0 0 24 24" width="24" height="24"><path fill="currentColor" d="M12 3L2 12h3v8h14v-8h3L12 3zm0 14a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/></svg>
+                </div>
+                <div class="stat-info">
+                    <div class="stat-value" id="stat-total" data-target="472">0</div>
+                    <div class="stat-label">總收錄小吃店家</div>
+                </div>
+            </div>
+            <div class="stat-card" data-neon="purple">
+                <div class="stat-icon">
+                    <svg viewBox="0 0 24 24" width="24" height="24"><path fill="currentColor" d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z"/></svg>
+                </div>
+                <div class="stat-info">
+                    <div class="stat-value" id="stat-regions" data-target="18">0</div>
+                    <div class="stat-label">覆蓋縣市地區</div>
+                </div>
+            </div>
+            <div class="stat-card" data-neon="green">
+                <div class="stat-icon">
+                    <svg viewBox="0 0 24 24" width="24" height="24"><path fill="currentColor" d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/></svg>
+                </div>
+                <div class="stat-info">
+                    <div class="stat-value" id="stat-cuisines" data-target="11">0</div>
+                    <div class="stat-label">菜系種類數量</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Interactive Control Console -->
+        <section class="control-console">
+            <div class="console-title">
+                <span class="dot-matrix"></span>
+                <span>FILTER & SEARCH CONTROL CONSOLE // 篩選面板</span>
+            </div>
+            
+            <div class="filter-grid">
+                <!-- Search Box -->
+                <div class="input-group search-group">
+                    <label for="search-input">全文關鍵字檢索</label>
+                    <div class="input-wrapper">
+                        <input type="text" id="search-input" placeholder="輸入店名、地址、地區或菜系..." autocomplete="off">
+                        <button class="clear-btn" id="clear-search" type="button">&times;</button>
+                    </div>
+                </div>
+
+                <!-- Region Select -->
+                <div class="input-group">
+                    <label for="region-select">縣市地區</label>
+                    <select id="region-select">
+                        <option value="">ALL REGIONS // 全部縣市</option>
+                    </select>
+                </div>
+
+                <!-- Cuisine Select -->
+                <div class="input-group">
+                    <label for="cuisine-select">菜系類別</label>
+                    <select id="cuisine-select">
+                        <option value="">ALL CUISINES // 全部菜系</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Quick tags for regions -->
+            <div class="quick-tags">
+                <span class="quick-tags-label">熱門地區快搜標籤:</span>
+                <div class="tags-container" id="tags-container">
+                    <button class="tag-btn" data-search="台北">台北</button>
+                    <button class="tag-btn" data-search="高雄">高雄</button>
+                    <button class="tag-btn" data-search="台南">台南</button>
+                    <button class="tag-btn" data-search="台中">台中</button>
+                    <button class="tag-btn" data-search="新北">新北</button>
+                    <button class="tag-btn" data-search="彰化">彰化</button>
+                    <button class="tag-btn" data-search="嘉義">嘉義</button>
+                    <button class="tag-btn" data-search="宜蘭">宜蘭</button>
+                    <button class="tag-btn" data-search="新竹">新竹</button>
+                    <button class="tag-btn" data-search="苗栗">苗栗</button>
+                </div>
+            </div>
+
+            <!-- Console Status Bar -->
+            <div class="console-footer">
+                <div class="result-count">
+                    STATUS: <span class="accent-text" id="status-mode">READY</span> // FOUND <span class="accent-text" id="match-count">0</span> / <span id="total-theme-count">0</span> STORES
+                </div>
+                <div class="sort-group">
+                    <label for="sort-select">排序規則:</label>
+                    <select id="sort-select">
+                        <option value="region-asc">按縣市地區排序</option>
+                        <option value="name-asc">店名字母排序</option>
+                    </select>
+                </div>
+            </div>
+        </section>
+
+        <!-- Store Grid -->
+        <main class="store-grid" id="store-grid">
+            <!-- Cards will be dynamically injected here -->
+        </main>
+
+        <!-- Google AdSense Ad Unit -->
+        <div class="adsense-container" style="width: 100%; max-width: 1200px; margin: 20px auto; padding: 15px; border: 1px dashed rgba(0, 242, 254, 0.2); background: rgba(0, 0, 0, 0.2); border-radius: 8px; text-align: center;">
+            <div style="font-family: var(--font-mono); font-size: 0.75rem; color: rgba(0, 242, 254, 0.5); margin-bottom: 10px; letter-spacing: 2px;">SPONSORED ADVERTISEMENT // 贊助廣告</div>
+            <!-- [提示] 請將 data-ad-client 與 data-ad-slot 替換為您的廣告單元 ID -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+                 data-ad-slot="XXXXXXXXXX"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <script>
+                 try { (adsbygoogle = window.adsbygoogle || []).push({}); } catch(e) {}
+            </script>
+        </div>
+
+        <!-- Load More Section -->
+        <div class="load-more-container" id="load-more-container">
+            <button class="cyber-btn" id="load-more-btn">
+                <span class="btn-glitch-bg"></span>
+                <span class="btn-text">LOAD MORE DATA // 載入更多店家</span>
+            </button>
+        </div>
+
+        <!-- Footer with Disclaimer & External Links -->
+        <footer class="cyber-footer">
+            <div class="footer-line"></div>
+            
+            <!-- Safe & Compliant Disclaimer Box -->
+            <div class="disclaimer-box">
+                ⚠️ SYSTEM NOTICE // 免責宣告：<br>
+                本網頁僅供個人網頁設計練習與非營利美食分享使用，無任何商業廣告或收費行為。
+            </div>
+
+            <div class="footer-content">
+                <div>HappyFoodTime PORTAL v5.0.0 // DESIGNED FOR CYBER FOODIES</div>
+                <div>🪐 SYSTEM STABLE // DATA COMPLIANCE VALIDATED</div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Supabase Cloud Node Configurations -->
+    <script>
+        // [IMPORTANT] Replace with your actual Supabase configurations.
+        // It is perfectly safe to expose these anonymous keys in client-side code.
+        window.SUPABASE_URL = "https://your-project-id.supabase.co";
+        window.SUPABASE_ANON_KEY = "your-anon-public-key";
+    </script>
+
+    <!-- Scripts -->
+    <script src="stores_data.js"></script> <!-- Local Backup Fallback -->
+    <script src="app.js"></script>
+</body>
+</html>

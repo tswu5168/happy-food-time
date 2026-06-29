@@ -1,0 +1,10 @@
+# Local environment variables containing sensitive keys
+.env
+
+# Local scraper cache and raw checkpoints (large JSON files)
+fully_resolved_stores.json
+scraped_raw_stores.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
