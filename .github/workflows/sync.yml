@@ -1,0 +1,39 @@
+name: HappyFoodTime Database Auto-Sync
+
+on:
+  schedule:
+    # Runs at 18:00 UTC daily (2:00 AM Taiwan Time)
+    - cron: '0 18 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - name: Run Database Synchronizer
+      env:
+        SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+        SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+      run: |
+        python update_database.py
+
+    - name: Commit and push local backup changes
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add stores_data.js
+        # Commit only if there are changes to avoid workflow failure
+        git diff-index --quiet HEAD || git commit -m "Auto-update stores_data.js (scheduled sync)"
+        git push

@@ -364,16 +364,25 @@ def resolve_addresses(stores, theme_name, resolved_map):
     return resolved_map
 
 def load_env():
-    env_vars = {}
-    env_path = os.path.join(PROJECT_DIR, ".env")
-    if os.path.exists(env_path):
-        with open(env_path, "r", encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if line and not line.startswith("#"):
-                    parts = line.split("=", 1)
-                    if len(parts) == 2:
-                        env_vars[parts[0].strip()] = parts[1].strip()
+    env_vars = {
+        "SUPABASE_URL": os.environ.get("SUPABASE_URL"),
+        "SUPABASE_SERVICE_KEY": os.environ.get("SUPABASE_SERVICE_KEY")
+    }
+    
+    # If not fully set in system environment, fallback to loading local .env
+    if not env_vars["SUPABASE_URL"] or not env_vars["SUPABASE_SERVICE_KEY"]:
+        env_path = os.path.join(PROJECT_DIR, ".env")
+        if os.path.exists(env_path):
+            with open(env_path, "r", encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    if line and not line.startswith("#"):
+                        parts = line.split("=", 1)
+                        if len(parts) == 2:
+                            key = parts[0].strip()
+                            val = parts[1].strip()
+                            if not env_vars.get(key):
+                                env_vars[key] = val
     return env_vars
 
 def upsert_to_supabase(stores_list, env_vars):
