@@ -106,8 +106,8 @@ const STORES_DATA = [
     "cuisine": "海鮮",
     "address": "207台灣新北市萬里區龜吼里玉田路46-5號",
     "time": "",
-    "lat": "25.1896663",
-    "lon": "121.6829912",
+    "lat": "25.1894804",
+    "lon": "121.6829744",
     "theme": "food"
   },
   {
@@ -246,8 +246,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "973台灣花蓮縣吉安鄉仁里村仁里三街6號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "23.9681888",
+    "lon": "121.593399",
     "theme": "food"
   },
   {
@@ -382,12 +382,12 @@ const STORES_DATA = [
   },
   {
     "name": "廖媽媽",
-    "region": "基隆",
+    "region": "高雄",
     "cuisine": "台式",
-    "address": "200台灣基隆市仁愛區新店里孝三路84號2樓",
+    "address": "802台灣高雄市苓雅區廣澤里仁智街39號",
     "time": "",
-    "lat": "25.1309443",
-    "lon": "121.7399409",
+    "lat": "22.6154938",
+    "lon": "120.3047832",
     "theme": "food"
   },
   {
@@ -412,12 +412,12 @@ const STORES_DATA = [
   },
   {
     "name": "羅家古早麵",
-    "region": "未知",
+    "region": "新竹",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "306台灣新竹縣關西鎮東安里中山東路49號",
     "time": "",
-    "lat": "24.4678753",
-    "lon": "120.9087688",
+    "lat": "24.7895267",
+    "lon": "121.1826687",
     "theme": "food"
   },
   {
@@ -512,12 +512,12 @@ const STORES_DATA = [
   },
   {
     "name": "阿婆早午餐",
-    "region": "彰化",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "508台灣彰化縣和美鎮新庄里彰新路二段81號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.0942806",
-    "lon": "120.5370284",
+    "lat": "24.4450115",
+    "lon": "120.7587346",
     "theme": "food"
   },
   {
@@ -596,8 +596,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.9619729",
+    "lon": "121.3230314",
     "theme": "food"
   },
   {
@@ -792,12 +792,12 @@ const STORES_DATA = [
   },
   {
     "name": "Zhengxiang Breakfast Restaurant",
-    "region": "未知",
+    "region": "新竹",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "302台灣新竹縣竹北市泰和里中華路456號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.8412838",
+    "lon": "121.0055875",
     "theme": "food"
   },
   {
@@ -936,8 +936,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.7469886",
-    "lon": "120.9539314",
+    "lat": "24.8533485",
+    "lon": "121.0801067",
     "theme": "food"
   },
   {
@@ -1024,7 +1024,7 @@ const STORES_DATA = [
     "name": "Be Share You Me",
     "region": "未知",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "3109 M St NW #200, Washington, DC 20007",
     "time": "",
     "lat": "",
     "lon": "",
@@ -1386,8 +1386,8 @@ const STORES_DATA = [
     "cuisine": "客家",
     "address": "314台灣新竹縣北埔鄉大湖村7鄰20號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.7020637",
+    "lon": "121.074175",
     "theme": "food"
   },
   {
@@ -1642,12 +1642,12 @@ const STORES_DATA = [
   },
   {
     "name": "老街麵店",
-    "region": "未知",
+    "region": "桃園",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "325台灣桃園市龍潭區龍潭里龍元路106號",
     "time": "",
-    "lat": "24.9675367",
-    "lon": "121.371176",
+    "lat": "24.8647092",
+    "lon": "121.2115014",
     "theme": "food"
   },
   {
@@ -1746,8 +1746,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.0110367",
+    "lon": "120.8584286",
     "theme": "food"
   },
   {
@@ -2076,8 +2076,8 @@ const STORES_DATA = [
     "cuisine": "海鮮",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "25.1922378",
-    "lon": "121.6895093",
+    "lat": "25.1973452",
+    "lon": "121.6867677",
     "theme": "food"
   },
   {
@@ -2266,8 +2266,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "265台灣宜蘭縣羅東鎮中山里中山路三段180號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.6749339",
+    "lon": "121.770255",
     "theme": "food"
   },
   {
@@ -2422,12 +2422,12 @@ const STORES_DATA = [
   },
   {
     "name": "車輪餅",
-    "region": "未知",
+    "region": "台南",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "710台灣臺南市永康區復國里復國一路257-8號",
     "time": "",
-    "lat": "24.0306054",
-    "lon": "120.8940879",
+    "lat": "23.0087824",
+    "lon": "120.246251",
     "theme": "food"
   },
   {
@@ -2506,8 +2506,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "813台灣高雄市左營區自由三路531號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "22.678424",
+    "lon": "120.3131",
     "theme": "food"
   },
   {
@@ -2516,8 +2516,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "400台灣臺中市中區繼光里繼光街138號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.1401821",
+    "lon": "120.6841118",
     "theme": "food"
   },
   {
@@ -2706,8 +2706,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.8712667",
-    "lon": "121.1587188",
+    "lat": "24.859841",
+    "lon": "121.087091",
     "theme": "food"
   },
   {
@@ -3106,8 +3106,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "265台灣宜蘭縣羅東鎮竹林里復興路二段111號",
     "time": "",
-    "lat": "24.6878611",
-    "lon": "121.7657906",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -3316,8 +3316,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.0838781",
-    "lon": "120.5415017",
+    "lat": "24.0831958",
+    "lon": "120.5410187",
     "theme": "food"
   },
   {
@@ -3506,8 +3506,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.7135199",
-    "lon": "121.1719763",
+    "lat": "24.7131295",
+    "lon": "121.1984443",
     "theme": "food"
   },
   {
@@ -3786,8 +3786,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "700台灣臺南市中西區赤嵌里民族路二段248號",
     "time": "",
-    "lat": "22.9974061",
-    "lon": "120.201347",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -4486,8 +4486,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.5350298",
-    "lon": "121.2451031",
+    "lat": "24.6826719",
+    "lon": "121.2720081",
     "theme": "food"
   },
   {
@@ -4522,12 +4522,12 @@ const STORES_DATA = [
   },
   {
     "name": "臺米菜飯TAIMIRICE",
-    "region": "雲林",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "640台灣雲林縣斗六市社口里府前街45號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.7063177",
-    "lon": "120.5419971",
+    "lat": "23.707693",
+    "lon": "120.5405097",
     "theme": "food"
   },
   {
@@ -4676,8 +4676,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "928台灣屏東縣東港鎮東隆里共和街19之1號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "22.4634752",
+    "lon": "120.4494188",
     "theme": "food"
   },
   {
@@ -5092,12 +5092,12 @@ const STORES_DATA = [
   },
   {
     "name": "九湯町拉麵博物館",
-    "region": "未知",
+    "region": "宜蘭",
     "cuisine": "日式",
-    "address": "2 Chome-14-21 Shinyokohama, Kohoku Ward, Yokohama, Kanagawa 222-0033日本",
+    "address": "260台灣宜蘭縣宜蘭市神農里復興路19號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.7499897",
+    "lon": "121.7552439",
     "theme": "food"
   },
   {
@@ -5167,7 +5167,7 @@ const STORES_DATA = [
     "address": "地址請至導航地圖查看",
     "time": "",
     "lat": "24.3691501",
-    "lon": "120.664127",
+    "lon": "120.6816027",
     "theme": "food"
   },
   {
@@ -5214,10 +5214,10 @@ const STORES_DATA = [
     "name": "北平孔家小館",
     "region": "屏東",
     "cuisine": "台式",
-    "address": "900台灣屏東縣屏東市公園里自由路315號",
+    "address": "928台灣屏東縣東港鎮東光里光復路一段297之1號",
     "time": "",
-    "lat": "22.6778728",
-    "lon": "120.4971261",
+    "lat": "22.4697709",
+    "lon": "120.4593724",
     "theme": "food"
   },
   {
@@ -5326,8 +5326,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.4777274",
-    "lon": "120.4527936",
+    "lat": "23.4659837",
+    "lon": "120.4560362",
     "theme": "food"
   },
   {
@@ -5956,8 +5956,8 @@ const STORES_DATA = [
     "cuisine": "民宿",
     "address": "946台灣屏東縣恆春鎮槺林南路135巷128號",
     "time": "",
-    "lat": "21.9900392",
-    "lon": "120.7306677",
+    "lat": "",
+    "lon": "",
     "theme": "stay"
   },
   {
@@ -6156,8 +6156,8 @@ const STORES_DATA = [
     "cuisine": "民宿",
     "address": "424台灣臺中市和平區博愛里東關路一段200-8號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.1917479",
+    "lon": "121.0149535",
     "theme": "stay"
   },
   {
@@ -6166,8 +6166,8 @@ const STORES_DATA = [
     "cuisine": "民宿",
     "address": "555台灣南投縣魚池鄉水社村中興路136號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "23.8635584",
+    "lon": "120.9070962",
     "theme": "stay"
   },
   {
@@ -6342,12 +6342,12 @@ const STORES_DATA = [
   },
   {
     "name": "第十七個夏天",
-    "region": "未知",
+    "region": "花蓮",
     "cuisine": "民宿",
-    "address": "地址請至導航地圖查看",
+    "address": "974台灣花蓮縣壽豐鄉平和村大學路二段63巷60號",
     "time": "",
-    "lat": "23.8972337",
-    "lon": "121.5538464",
+    "lat": "23.8970861",
+    "lon": "121.5540856",
     "theme": "stay"
   },
   {
@@ -6444,7 +6444,7 @@ const STORES_DATA = [
     "name": "Paradise Road",
     "region": "未知",
     "cuisine": "景點",
-    "address": "213 Srimath Anagarika Dharmapala Mawatha, Colombo 00700斯里蘭卡",
+    "address": "地址請至導航地圖查看",
     "time": "",
     "lat": "",
     "lon": "",
@@ -6546,8 +6546,8 @@ const STORES_DATA = [
     "cuisine": "景點",
     "address": "248台灣新北市五股區",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "25.128385",
+    "lon": "121.4243196",
     "theme": "play"
   },
   {
@@ -6556,8 +6556,8 @@ const STORES_DATA = [
     "cuisine": "景點",
     "address": "203台灣基隆市中山區湖海路一段",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "25.1643355",
+    "lon": "121.723286",
     "theme": "play"
   },
   {
@@ -6586,8 +6586,8 @@ const STORES_DATA = [
     "cuisine": "景點",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.3958964",
-    "lon": "120.3795728",
+    "lat": "23.3958839",
+    "lon": "120.3794393",
     "theme": "play"
   },
   {
@@ -6602,12 +6602,12 @@ const STORES_DATA = [
   },
   {
     "name": "Fengguizui",
-    "region": "台北",
+    "region": "未知",
     "cuisine": "景點",
-    "address": "111台灣臺北市士林區",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "25.1371413",
-    "lon": "121.6028644",
+    "lat": "25.134672",
+    "lon": "121.6000586",
     "theme": "play"
   },
   {
@@ -6646,8 +6646,8 @@ const STORES_DATA = [
     "cuisine": "景點",
     "address": "546台灣南投縣仁愛鄉台14甲線24.3公里號",
     "time": "",
-    "lat": "24.1182803",
-    "lon": "121.2375855",
+    "lat": "",
+    "lon": "",
     "theme": "play"
   },
   {
@@ -6776,8 +6776,8 @@ const STORES_DATA = [
     "cuisine": "自然景觀",
     "address": "541台灣南投縣中寮鄉福盛村永樂路106號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "23.8852781",
+    "lon": "120.8070748",
     "theme": "play"
   },
   {
@@ -6786,8 +6786,8 @@ const STORES_DATA = [
     "cuisine": "景點",
     "address": "603台灣嘉義縣梅山鄉太興村橫山6之25號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "23.5517725",
+    "lon": "120.6280995",
     "theme": "play"
   },
   {
@@ -6796,8 +6796,8 @@ const STORES_DATA = [
     "cuisine": "景點",
     "address": "244台灣新北市林口區菁湖里竹林路325號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "25.0836731",
+    "lon": "121.3893262",
     "theme": "play"
   },
   {
@@ -7156,8 +7156,8 @@ const STORES_DATA = [
     "cuisine": "景點",
     "address": "406台灣臺中市北屯區敦富路與號敦富一街口",
     "time": "",
-    "lat": "24.1844475",
-    "lon": "120.7082321",
+    "lat": "",
+    "lon": "",
     "theme": "play"
   },
   {
@@ -7294,10 +7294,10 @@ const STORES_DATA = [
     "name": "Jialun Viewpoint",
     "region": "未知",
     "cuisine": "景點",
-    "address": "地址請至導航地圖查看",
+    "address": "Luray, VA 22835",
     "time": "",
-    "lat": "22.6160245",
-    "lon": "120.9978799",
+    "lat": "",
+    "lon": "",
     "theme": "play"
   },
   {
@@ -7372,22 +7372,22 @@ const STORES_DATA = [
   },
   {
     "name": "Sunset Boulevard Observation Deck in Tongxiao",
-    "region": "苗栗",
-    "cuisine": "景點",
-    "address": "台灣苗栗縣通霄鎮新埔里、357",
-    "time": "",
-    "lat": "24.5425769",
-    "lon": "120.7018575",
-    "theme": "play"
-  },
-  {
-    "name": "Caishengui Park",
     "region": "未知",
     "cuisine": "景點",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.5405893",
+    "lon": "120.7042952",
+    "theme": "play"
+  },
+  {
+    "name": "Caishengui Park",
+    "region": "宜蘭",
+    "cuisine": "景點",
+    "address": "261台灣宜蘭縣頭城鎮和平街52-58號附近",
+    "time": "",
+    "lat": "24.8558739",
+    "lon": "121.8233847",
     "theme": "play"
   },
   {
@@ -7796,8 +7796,8 @@ const STORES_DATA = [
     "cuisine": "景點",
     "address": "262台灣宜蘭縣礁溪鄉德陽村忠孝路1巷17-6號",
     "time": "",
-    "lat": "24.8318453",
-    "lon": "121.7690629",
+    "lat": "",
+    "lon": "",
     "theme": "play"
   },
   {
@@ -7806,8 +7806,8 @@ const STORES_DATA = [
     "cuisine": "景點",
     "address": "413台灣臺中市霧峰區坑口里和平路2-3號光復新站",
     "time": "",
-    "lat": "24.043207",
-    "lon": "120.6951367",
+    "lat": "",
+    "lon": "",
     "theme": "play"
   },
   {
@@ -7916,8 +7916,8 @@ const STORES_DATA = [
     "cuisine": "自然景觀",
     "address": "972台灣花蓮縣秀林鄉台8線166.5K號白楊步道內",
     "time": "",
-    "lat": "24.1805494",
-    "lon": "121.4743915",
+    "lat": "",
+    "lon": "",
     "theme": "play"
   },
   {
@@ -7946,8 +7946,8 @@ const STORES_DATA = [
     "cuisine": "景點",
     "address": "556台灣南投縣信義鄉光復巷",
     "time": "",
-    "lat": "23.7806637",
-    "lon": "120.9498198",
+    "lat": "",
+    "lon": "",
     "theme": "play"
   },
   {
@@ -7956,8 +7956,8 @@ const STORES_DATA = [
     "cuisine": "景點",
     "address": "653台灣雲林縣口湖鄉港東村中正路1之3號",
     "time": "",
-    "lat": "23.5744286",
-    "lon": "120.1516223",
+    "lat": "",
+    "lon": "",
     "theme": "play"
   },
   {
@@ -7966,7 +7966,7 @@ const STORES_DATA = [
     "cuisine": "藝文觀光",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "25.1405066",
+    "lat": "25.1404195",
     "lon": "121.7969622",
     "theme": "play"
   },
