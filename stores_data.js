@@ -86,8 +86,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "360台灣苗栗縣苗栗市上苗里中正路114號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.567334",
+    "lon": "120.824198",
     "theme": "food"
   },
   {
@@ -252,12 +252,12 @@ const STORES_DATA = [
   },
   {
     "name": "山本屋",
-    "region": "台北",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "106台灣臺北市大安區錦安里金山南路二段203巷17號0km 山物所A棟",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "25.0279513",
-    "lon": "121.527381",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -936,8 +936,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.7469245",
-    "lon": "120.9539518",
+    "lat": "24.746953",
+    "lon": "120.9539153",
     "theme": "food"
   },
   {
@@ -1647,7 +1647,7 @@ const STORES_DATA = [
     "address": "地址請至導航地圖查看",
     "time": "",
     "lat": "24.5623519",
-    "lon": "120.9751996",
+    "lon": "120.9849548",
     "theme": "food"
   },
   {
@@ -2422,12 +2422,12 @@ const STORES_DATA = [
   },
   {
     "name": "車輪餅",
-    "region": "台南",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "710台灣臺南市永康區復國里復國一路257-8號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.0087824",
-    "lon": "120.246251",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -2786,8 +2786,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "262台灣宜蘭縣礁溪鄉白鵝村柴圍路10號",
     "time": "",
-    "lat": "24.8009647",
-    "lon": "121.761336",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -4136,8 +4136,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "220台灣新北市板橋區華翠里莒光路80號",
     "time": "",
-    "lat": "25.0240112",
-    "lon": "121.4715449",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -4486,7 +4486,7 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.567085",
+    "lat": "24.6015406",
     "lon": "121.2451031",
     "theme": "food"
   },
@@ -5011,9 +5011,9 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "恰恰吧蘿蔔糕/夏季優惠任選兩條折50/拜拜/露營/蘿蔔絲世界多/台南小吃/懷念的小吃/伴手禮/素食可吃",
+    "name": "恰恰吧蘿蔔糕",
     "region": "台南",
-    "cuisine": "素食",
+    "cuisine": "台式",
     "address": "708台灣臺南市安平區天妃里安平路169巷1號",
     "time": "",
     "lat": "23.0001281",
@@ -5081,7 +5081,7 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "Du Hsiao Yueh Restaurant Tainan Chung Cheng Flagship Store",
+    "name": "度小月擔仔麵 中正旗艦店",
     "region": "台南",
     "cuisine": "台式",
     "address": "700台灣臺南市中西區南美里中正路101號",
@@ -5111,13 +5111,13 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "日式章魚燒日之丸 タコヤキヒノマル",
-    "region": "花蓮",
+    "name": "章魚燒日之丸 タコヤキヒノマル（5/28臨時店休）",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "973台灣花蓮縣吉安鄉永安村吉安路一段15號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.992269",
-    "lon": "121.5755216",
+    "lat": "23.9986793",
+    "lon": "121.5972527",
     "theme": "food"
   },
   {
@@ -5141,7 +5141,7 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "湯旺麻辣回轉火鍋-高雄總店",
+    "name": "湯旺麻辣回轉火鍋",
     "region": "高雄",
     "cuisine": "台式",
     "address": "81358台灣高雄市左營區新上里明誠二路477號",
@@ -5322,12 +5322,12 @@ const STORES_DATA = [
   },
   {
     "name": "阿宏師火雞肉飯",
-    "region": "嘉義",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "成仁街, 嘉義市, 嘉義市 600",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.4785998",
-    "lon": "120.4521981",
+    "lat": "23.4659837",
+    "lon": "120.4560362",
     "theme": "food"
   },
   {
@@ -5986,8 +5986,8 @@ const STORES_DATA = [
     "cuisine": "民宿",
     "address": "946台灣屏東縣恆春鎮山海里萬里路25-3號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "21.9961856",
+    "lon": "120.7051649",
     "theme": "stay"
   },
   {
@@ -6464,10 +6464,10 @@ const STORES_DATA = [
     "name": "Tai'an Railway Cultural Park",
     "region": "未知",
     "cuisine": "景點",
-    "address": "地址請至導航地圖查看",
+    "address": "51 Fu Xing Rd, Houli District, Taichung City 421",
     "time": "",
-    "lat": "24.2297483",
-    "lon": "120.7169043",
+    "lat": "24.3227",
+    "lon": "120.749",
     "theme": "play"
   },
   {
@@ -6482,12 +6482,12 @@ const STORES_DATA = [
   },
   {
     "name": "新禮觀觀景台",
-    "region": "未知",
+    "region": "高雄",
     "cuisine": "景點",
-    "address": "地址請至導航地圖查看",
+    "address": "848台灣高雄市桃源區",
     "time": "",
-    "lat": "23.285495",
-    "lon": "120.8421671",
+    "lat": "23.285444",
+    "lon": "120.842278",
     "theme": "play"
   },
   {
@@ -7042,12 +7042,12 @@ const STORES_DATA = [
   },
   {
     "name": "Fuxingwenquanqu Parent-Child Park",
-    "region": "未知",
+    "region": "南投",
     "cuisine": "景點",
-    "address": "地址請至導航地圖查看",
+    "address": "545台灣南投縣埔里鎮福興里福興路293號",
     "time": "",
-    "lat": "24.2295027",
-    "lon": "120.8112357",
+    "lat": "24.0117211",
+    "lon": "120.9662704",
     "theme": "play"
   },
   {
@@ -7294,7 +7294,7 @@ const STORES_DATA = [
     "name": "Jialun Viewpoint",
     "region": "未知",
     "cuisine": "景點",
-    "address": "Front Royal, VA 22630",
+    "address": "Huntly, VA 22640",
     "time": "",
     "lat": "",
     "lon": "",
@@ -7664,10 +7664,10 @@ const STORES_DATA = [
     "name": "蚵仔寮漁港",
     "region": "未知",
     "cuisine": "景點",
-    "address": "地址請至導航地圖查看",
+    "address": "台灣",
     "time": "",
-    "lat": "22.7261199",
-    "lon": "120.25416",
+    "lat": "22.726023",
+    "lon": "120.2527151",
     "theme": "play"
   },
   {
@@ -7714,10 +7714,10 @@ const STORES_DATA = [
     "name": "太平雲梯服務中心（嘉義縣梅山鄉太平村下坑仔5號）Taiping Suspension Bridge service center",
     "region": "嘉義",
     "cuisine": "自然景觀",
-    "address": "地址請至導航地圖查看",
+    "address": "60345台灣嘉義縣梅山鄉太平村下坑仔5號",
     "time": "",
-    "lat": "23.559588",
-    "lon": "120.5989216",
+    "lat": "23.5595469",
+    "lon": "120.6001357",
     "theme": "play"
   },
   {
