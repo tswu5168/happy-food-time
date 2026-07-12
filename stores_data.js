@@ -1,6 +1,16 @@
 // Auto-generated data file containing user's custom maps list (sanitized)
 const STORES_DATA = [
   {
+    "name": "紫藤花藝村",
+    "region": "新北",
+    "cuisine": "台式",
+    "address": "249台灣新北市八里區荖阡里荖阡坑路69之1號",
+    "time": "",
+    "lat": "25.1253309",
+    "lon": "121.4066215",
+    "theme": "food"
+  },
+  {
     "name": "樂漁 鮮魚定食x咖啡 礁溪店",
     "region": "宜蘭",
     "cuisine": "台式",
@@ -802,12 +812,12 @@ const STORES_DATA = [
   },
   {
     "name": "Zhengxiang Breakfast Restaurant",
-    "region": "未知",
+    "region": "新竹",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "302台灣新竹縣竹北市泰和里中華路456號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.8412838",
+    "lon": "121.0055875",
     "theme": "food"
   },
   {
@@ -946,8 +956,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.746953",
+    "lon": "120.9539153",
     "theme": "food"
   },
   {
@@ -1191,13 +1201,13 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "ONI HOTPOT 鬼椒一番鍋｜宜蘭",
+    "name": "鬼椒一番鍋Oni Hot Pot【宜蘭店】",
     "region": "宜蘭",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "260台灣宜蘭縣宜蘭市大新里新民路2號",
     "time": "",
-    "lat": "24.7174469",
-    "lon": "121.7636677",
+    "lat": "24.756326",
+    "lon": "121.7581249",
     "theme": "food"
   },
   {
@@ -1736,8 +1746,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.7342686",
+    "lon": "121.0928728",
     "theme": "food"
   },
   {
@@ -1746,8 +1756,8 @@ const STORES_DATA = [
     "cuisine": "海鮮",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.8230258",
+    "lon": "121.0140942",
     "theme": "food"
   },
   {
@@ -1832,12 +1842,12 @@ const STORES_DATA = [
   },
   {
     "name": "利記麵店",
-    "region": "未知",
+    "region": "屏東",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "912台灣屏東縣內埔鄉美和村學人路78號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "22.5952102",
+    "lon": "120.5575764",
     "theme": "food"
   },
   {
@@ -2716,8 +2726,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.859841",
+    "lon": "121.087091",
     "theme": "food"
   },
   {
@@ -3326,8 +3336,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.0831958",
-    "lon": "120.5410187",
+    "lat": "24.08385",
+    "lon": "120.5415271",
     "theme": "food"
   },
   {
@@ -3516,8 +3526,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.7142891",
+    "lon": "121.1719763",
     "theme": "food"
   },
   {
@@ -3786,8 +3796,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "545台灣南投縣埔里鎮大城里南安路550號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "23.966652",
+    "lon": "120.9578254",
     "theme": "food"
   },
   {
@@ -3982,12 +3992,12 @@ const STORES_DATA = [
   },
   {
     "name": "新鮮牛肉湯",
-    "region": "未知",
+    "region": "台南",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "701台灣臺南市東區東安里東門路二段91號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "22.9860277",
+    "lon": "120.2213424",
     "theme": "food"
   },
   {
@@ -4941,7 +4951,7 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "豆花姐知本豆花",
+    "name": "豆花姐知本豆花暨旺麵線好吃滷味",
     "region": "台東",
     "cuisine": "台式",
     "address": "950台灣臺東縣臺東市建興里青海路四段480號",
@@ -6596,8 +6606,8 @@ const STORES_DATA = [
     "cuisine": "景點",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.3958964",
-    "lon": "120.3795728",
+    "lat": "23.3958839",
+    "lon": "120.3794393",
     "theme": "play"
   },
   {
@@ -6902,12 +6912,12 @@ const STORES_DATA = [
   },
   {
     "name": "1314 Lookout",
-    "region": "未知",
+    "region": "嘉義",
     "cuisine": "景點",
-    "address": "地址請至導航地圖查看",
+    "address": "603台灣嘉義縣梅山鄉瑞峯村",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "23.559546",
+    "lon": "120.6790531",
     "theme": "play"
   },
   {
@@ -7142,12 +7152,12 @@ const STORES_DATA = [
   },
   {
     "name": "雪見遊憩區",
-    "region": "苗栗",
+    "region": "未知",
     "cuisine": "景點",
-    "address": "7鄰, No. 10號, 雪見, 梅園村泰安鄉苗栗縣台灣 365",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.4246205",
-    "lon": "121.0133958",
+    "lat": "24.4247723",
+    "lon": "121.0138256",
     "theme": "play"
   },
   {
@@ -7384,20 +7394,20 @@ const STORES_DATA = [
     "name": "Sunset Boulevard Observation Deck in Tongxiao",
     "region": "未知",
     "cuisine": "景點",
-    "address": "875 N Michigan Ave 94th floor, Chicago, IL 60611",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.5405893",
+    "lon": "120.7042952",
     "theme": "play"
   },
   {
     "name": "Caishengui Park",
-    "region": "未知",
+    "region": "宜蘭",
     "cuisine": "景點",
-    "address": "地址請至導航地圖查看",
+    "address": "261台灣宜蘭縣頭城鎮和平街52-58號附近",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.8558739",
+    "lon": "121.8233847",
     "theme": "play"
   },
   {
