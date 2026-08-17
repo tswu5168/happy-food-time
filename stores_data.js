@@ -586,8 +586,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.8316732",
-    "lon": "121.1508505",
+    "lat": "24.8413837",
+    "lon": "121.1644692",
     "theme": "food"
   },
   {
@@ -896,7 +896,7 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.9107316",
+    "lat": "23.9087404",
     "lon": "120.8505585",
     "theme": "food"
   },
@@ -1366,8 +1366,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.7469245",
-    "lon": "120.9539518",
+    "lat": "24.746953",
+    "lon": "120.9539153",
     "theme": "food"
   },
   {
@@ -1857,7 +1857,7 @@ const STORES_DATA = [
     "address": "地址請至導航地圖查看",
     "time": "",
     "lat": "22.9763608",
-    "lon": "120.2423904",
+    "lon": "120.265197",
     "theme": "food"
   },
   {
@@ -2076,8 +2076,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.5623519",
-    "lon": "120.9849548",
+    "lat": "24.9675367",
+    "lon": "121.371176",
     "theme": "food"
   },
   {
@@ -2852,12 +2852,12 @@ const STORES_DATA = [
   },
   {
     "name": "車輪餅",
-    "region": "未知",
+    "region": "新北",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "235台灣新北市中和區吉興里南山路174之1號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.9913391",
+    "lon": "121.5048683",
     "theme": "food"
   },
   {
@@ -3226,7 +3226,7 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.6853104",
+    "lat": "24.6871011",
     "lon": "121.7889325",
     "theme": "food"
   },
@@ -3316,8 +3316,8 @@ const STORES_DATA = [
     "cuisine": "客家",
     "address": "364台灣苗栗縣大湖鄉富興村法雲寺5-5號",
     "time": "",
-    "lat": "24.4542804",
-    "lon": "120.8746586",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -3746,8 +3746,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.08385",
-    "lon": "120.5415271",
+    "lat": "24.0831958",
+    "lon": "120.5410187",
     "theme": "food"
   },
   {
@@ -3936,7 +3936,7 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.7142891",
+    "lat": "24.7138242",
     "lon": "121.1984443",
     "theme": "food"
   },
@@ -5512,12 +5512,12 @@ const STORES_DATA = [
   },
   {
     "name": "九湯町拉麵博物館",
-    "region": "未知",
+    "region": "宜蘭",
     "cuisine": "日式",
-    "address": "2 Chome-14-21 Shinyokohama, Kohoku Ward, Yokohama, Kanagawa 222-0033日本",
+    "address": "260台灣宜蘭縣宜蘭市神農里復興路19號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.7499897",
+    "lon": "121.7552439",
     "theme": "food"
   },
   {
@@ -7536,8 +7536,8 @@ const STORES_DATA = [
     "cuisine": "自然景觀",
     "address": "981台灣花蓮縣玉里鎮觀音里14鄰高寮275號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "23.394436",
+    "lon": "121.3959422",
     "theme": "play"
   },
   {
@@ -8222,12 +8222,12 @@ const STORES_DATA = [
   },
   {
     "name": "張美阿嬤農場",
-    "region": "宜蘭",
+    "region": "未知",
     "cuisine": "休閒公園",
-    "address": "266台灣宜蘭縣三星鄉行健村行健溪一路二段161號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.6748671",
-    "lon": "121.675608",
+    "lat": "24.6779742",
+    "lon": "121.6749995",
     "theme": "play"
   },
   {
