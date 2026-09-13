@@ -266,8 +266,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.2246356",
-    "lon": "120.3908043",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -372,12 +372,12 @@ const STORES_DATA = [
   },
   {
     "name": "Xincheng Pan-Fried Buns",
-    "region": "花蓮",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "971台灣花蓮縣新城鄉新城村博愛路48號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.1280334",
-    "lon": "121.6501756",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -404,10 +404,10 @@ const STORES_DATA = [
     "name": "201 Xiang Beef Noodle Restaurant",
     "region": "未知",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "3235 S Halsted St, Chicago, IL 60608",
     "time": "",
-    "lat": "22.7348672",
-    "lon": "121.0708235",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -536,8 +536,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.0598048",
-    "lon": "120.2332943",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -976,8 +976,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.9107316",
-    "lon": "121.0527675",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -1386,8 +1386,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.9634642",
-    "lon": "121.267994",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -1492,12 +1492,12 @@ const STORES_DATA = [
   },
   {
     "name": "牛麵",
-    "region": "宜蘭",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "268台灣宜蘭縣五結鄉四結村中正路一段107號",
+    "address": "2002 S Wentworth Ave Unit fc7, Chicago, IL 60616",
     "time": "",
-    "lat": "24.6924251",
-    "lon": "121.7696838",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -1672,12 +1672,12 @@ const STORES_DATA = [
   },
   {
     "name": "皇泰火鍋城",
-    "region": "未知",
+    "region": "宜蘭",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "262008台灣宜蘭縣礁溪鄉大忠村和平路122號",
     "time": "",
-    "lat": "24.8237589",
-    "lon": "121.7658557",
+    "lat": "24.8237035",
+    "lon": "121.7660808",
     "theme": "food"
   },
   {
@@ -2156,8 +2156,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.0518878",
-    "lon": "120.9099631",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -2246,8 +2246,8 @@ const STORES_DATA = [
     "cuisine": "海鮮",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.8230258",
-    "lon": "121.0140942",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -2256,8 +2256,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.0110367",
-    "lon": "120.8584286",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -2522,12 +2522,12 @@ const STORES_DATA = [
   },
   {
     "name": "黃厝火雞肉飯/海南雞飯",
-    "region": "嘉義",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "193台灣嘉義縣太保市612",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.4518666",
-    "lon": "120.3468149",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -2816,8 +2816,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "335台灣桃園市大溪區興和里中正路37號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.8829454",
+    "lon": "121.2862657",
     "theme": "food"
   },
   {
@@ -2932,12 +2932,12 @@ const STORES_DATA = [
   },
   {
     "name": "車輪餅",
-    "region": "新北",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "235台灣新北市中和區吉興里南山路174之1號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.9913391",
-    "lon": "121.5048683",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -3056,8 +3056,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.8833177",
-    "lon": "121.6383048",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -3216,8 +3216,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.859841",
-    "lon": "121.087091",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -3672,12 +3672,12 @@ const STORES_DATA = [
   },
   {
     "name": "玉里橋頭臭豆腐-礁溪店",
-    "region": "未知",
+    "region": "宜蘭",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "262台灣宜蘭縣礁溪鄉三民村礁溪路三段56號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.8025872",
+    "lon": "121.7655259",
     "theme": "food"
   },
   {
@@ -3976,8 +3976,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "25.0262145",
-    "lon": "121.5025558",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -4016,8 +4016,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.7142891",
-    "lon": "121.1719763",
+    "lat": "24.7131295",
+    "lon": "121.1984443",
     "theme": "food"
   },
   {
@@ -4372,9 +4372,9 @@ const STORES_DATA = [
   },
   {
     "name": "正老林羊肉爐-大雅店",
-    "region": "台中",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "428台灣臺中市大雅區六寶里中清路四段456號",
+    "address": "地址請至導航地圖查看",
     "time": "",
     "lat": "24.2333063",
     "lon": "120.6383787",
@@ -4486,8 +4486,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "22.9971615",
-    "lon": "120.2214928",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -4954,10 +4954,10 @@ const STORES_DATA = [
     "name": "一福味麵食館 東勢美食",
     "region": "台中",
     "cuisine": "台式",
-    "address": "423台灣臺中市東勢區東安里中山路104號",
+    "address": "423台灣臺中市東勢區東安里中山路80號",
     "time": "",
-    "lat": "24.2569043",
-    "lon": "120.8286941",
+    "lat": "24.2570978",
+    "lon": "120.8290736",
     "theme": "food"
   },
   {
@@ -4976,18 +4976,18 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.8260925",
-    "lon": "121.770487",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
     "name": "如意小吃",
-    "region": "宜蘭",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "261台灣宜蘭縣頭城鎮城北里纘祥路56號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.8581942",
-    "lon": "121.8229619",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -5474,7 +5474,7 @@ const STORES_DATA = [
     "name": "矮仔成蝦仁飯",
     "region": "台南",
     "cuisine": "台式",
-    "address": "700台灣臺南市中西區南廠里海安路一段66號",
+    "address": "700台灣臺南市中西區海安路一段66號",
     "time": "",
     "lat": "22.9889795",
     "lon": "120.1952292",
@@ -5714,10 +5714,10 @@ const STORES_DATA = [
     "name": "北平孔家小館",
     "region": "屏東",
     "cuisine": "台式",
-    "address": "900台灣屏東縣屏東市公園里自由路315號",
+    "address": "928台灣屏東縣東港鎮東光里光復路一段297之1號",
     "time": "",
-    "lat": "22.6778728",
-    "lon": "120.4971261",
+    "lat": "22.4697709",
+    "lon": "120.4593724",
     "theme": "food"
   },
   {
@@ -5812,12 +5812,12 @@ const STORES_DATA = [
   },
   {
     "name": "麵茶冰",
-    "region": "台南",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "734台灣臺南市六甲區六甲里仁愛街38號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.2306933",
-    "lon": "120.354007",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -5982,12 +5982,12 @@ const STORES_DATA = [
   },
   {
     "name": "牛肉香餐廳",
-    "region": "彰化",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "505台灣彰化縣鹿港鎮新宮里博愛路103號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.0579274",
-    "lon": "120.4286653",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -6374,7 +6374,7 @@ const STORES_DATA = [
     "name": "Happy Manor",
     "region": "未知",
     "cuisine": "民宿",
-    "address": "地址請至導航地圖查看",
+    "address": "23675 W Chardon Rd, Grayslake, IL 60030",
     "time": "",
     "lat": "",
     "lon": "",
@@ -6932,12 +6932,12 @@ const STORES_DATA = [
   },
   {
     "name": "Tataka Parking Lot",
-    "region": "未知",
+    "region": "南投",
     "cuisine": "景點",
-    "address": "地址請至導航地圖查看",
+    "address": "556台灣南投縣信義鄉新中橫公路",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "23.487436",
+    "lon": "120.8901694",
     "theme": "play"
   },
   {
@@ -7064,7 +7064,7 @@ const STORES_DATA = [
     "name": "Paradise Road",
     "region": "未知",
     "cuisine": "景點",
-    "address": "213 Srimath Anagarika Dharmapala Mawatha, Colombo 00700斯里蘭卡",
+    "address": "地址請至導航地圖查看",
     "time": "",
     "lat": "",
     "lon": "",
@@ -7466,8 +7466,8 @@ const STORES_DATA = [
     "cuisine": "景點",
     "address": "423台灣臺中市東勢區廣興里中山路1號",
     "time": "",
-    "lat": "24.2576522",
-    "lon": "120.8318645",
+    "lat": "",
+    "lon": "",
     "theme": "play"
   },
   {
@@ -7512,12 +7512,12 @@ const STORES_DATA = [
   },
   {
     "name": "1314 Lookout",
-    "region": "嘉義",
+    "region": "未知",
     "cuisine": "景點",
-    "address": "603台灣嘉義縣梅山鄉瑞峯村",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.559546",
-    "lon": "120.6790531",
+    "lat": "",
+    "lon": "",
     "theme": "play"
   },
   {
@@ -7752,12 +7752,12 @@ const STORES_DATA = [
   },
   {
     "name": "雪見遊憩區",
-    "region": "苗栗",
+    "region": "未知",
     "cuisine": "景點",
-    "address": "7鄰, No. 10號, 雪見, 梅園村泰安鄉苗栗縣台灣 365",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.4247029",
-    "lon": "121.0133388",
+    "lat": "24.4248135",
+    "lon": "121.0137971",
     "theme": "play"
   },
   {
@@ -7804,7 +7804,7 @@ const STORES_DATA = [
     "name": "Furong Palace",
     "region": "未知",
     "cuisine": "景點",
-    "address": "中國湖南省湘西土家族苗族自治州永顺县芙蓉路 邮政编码: 416304",
+    "address": "中國湘西土家族苗族自治州永順縣",
     "time": "",
     "lat": "",
     "lon": "",
@@ -7914,10 +7914,10 @@ const STORES_DATA = [
     "name": "Jialun Viewpoint",
     "region": "未知",
     "cuisine": "景點",
-    "address": "地址請至導航地圖查看",
+    "address": "1623 S Lumber St, Chicago, IL 60616",
     "time": "",
-    "lat": "22.6160245",
-    "lon": "120.9978799",
+    "lat": "",
+    "lon": "",
     "theme": "play"
   },
   {
@@ -8002,12 +8002,12 @@ const STORES_DATA = [
   },
   {
     "name": "Caishengui Park",
-    "region": "宜蘭",
+    "region": "未知",
     "cuisine": "景點",
-    "address": "261台灣宜蘭縣頭城鎮和平街52-58號附近",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.8558739",
-    "lon": "121.8233847",
+    "lat": "",
+    "lon": "",
     "theme": "play"
   },
   {
@@ -8286,8 +8286,8 @@ const STORES_DATA = [
     "cuisine": "景點",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "22.7261199",
-    "lon": "120.25416",
+    "lat": "23.0020264",
+    "lon": "120.1966907",
     "theme": "play"
   },
   {
@@ -8582,12 +8582,12 @@ const STORES_DATA = [
   },
   {
     "name": "國立海洋科技博物館",
-    "region": "基隆",
+    "region": "未知",
     "cuisine": "藝文觀光",
-    "address": "202台灣基隆市中正區長潭里北寧路367號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "25.140573",
-    "lon": "121.7979733",
+    "lat": "25.1404195",
+    "lon": "121.7969622",
     "theme": "play"
   },
   {
