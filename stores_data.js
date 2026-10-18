@@ -412,12 +412,12 @@ const STORES_DATA = [
   },
   {
     "name": "萬里甕仔雞/萬里古早風味甕仔雞",
-    "region": "未知",
+    "region": "新北",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "207台灣新北市萬里區大鵬里頂社路2-2號",
     "time": "",
-    "lat": "25.2100534",
-    "lon": "121.6524857",
+    "lat": "25.209408",
+    "lon": "121.656795",
     "theme": "food"
   },
   {
@@ -536,8 +536,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "958台灣臺東縣池上鄉福原村中山路120號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "23.1221209",
+    "lon": "121.2152743",
     "theme": "food"
   },
   {
@@ -722,12 +722,12 @@ const STORES_DATA = [
   },
   {
     "name": "阿國小吃店",
-    "region": "未知",
+    "region": "苗栗",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "356台灣苗栗縣後龍鎮龍坑里156之68號",
     "time": "",
-    "lat": "24.6621217",
-    "lon": "121.1107372",
+    "lat": "24.6027319",
+    "lon": "120.7805686",
     "theme": "food"
   },
   {
@@ -982,12 +982,12 @@ const STORES_DATA = [
   },
   {
     "name": "羅家古早麵",
-    "region": "未知",
+    "region": "新竹",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "306台灣新竹縣關西鎮東安里中山東路49號",
     "time": "",
-    "lat": "24.4678753",
-    "lon": "120.9087688",
+    "lat": "24.7895267",
+    "lon": "121.1826687",
     "theme": "food"
   },
   {
@@ -1772,12 +1772,12 @@ const STORES_DATA = [
   },
   {
     "name": "榕樹下豆花",
-    "region": "雲林",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "640台灣雲林縣斗六市虎溪里文生路",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.7123568",
-    "lon": "120.525711",
+    "lat": "23.9012599",
+    "lon": "120.5347448",
     "theme": "food"
   },
   {
@@ -2866,8 +2866,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "700台灣臺南市中西區兌悅里西和路268號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "23.0027467",
+    "lon": "120.1925975",
     "theme": "food"
   },
   {
@@ -3116,8 +3116,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.8833177",
-    "lon": "121.6383048",
+    "lat": "24.6166139",
+    "lon": "121.2425446",
     "theme": "food"
   },
   {
@@ -3482,12 +3482,12 @@ const STORES_DATA = [
   },
   {
     "name": "竹香園甕缸雞 竹山店 - (推薦必吃 紫南宮美食、人氣家庭 團體好吃合菜、熱門平價料理)",
-    "region": "未知",
+    "region": "南投",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "557台灣南投縣竹山鎮山崇里集山路二段307號",
     "time": "",
-    "lat": "23.801288",
-    "lon": "120.7147976",
+    "lat": "23.7952768",
+    "lon": "120.7110394",
     "theme": "food"
   },
   {
@@ -3662,12 +3662,12 @@ const STORES_DATA = [
   },
   {
     "name": "冠軍牛肉麵-安和店",
-    "region": "台南",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "No. 342號, No. 342號安和路一段安東里安南區臺南市台灣 709",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.0330643",
-    "lon": "120.2124288",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -4192,9 +4192,9 @@ const STORES_DATA = [
   },
   {
     "name": "用盡心雞巨無霸雞排（5／1～5／7店休）",
-    "region": "台中",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "414台灣臺中市烏日區九德里中山路一段466號",
+    "address": "地址請至導航地圖查看",
     "time": "",
     "lat": "24.1073041",
     "lon": "120.6360149",
@@ -4981,7 +4981,7 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "林松雪冰果室",
+    "name": "斗南林松雪冰果室1958",
     "region": "雲林",
     "cuisine": "台式",
     "address": "630台灣雲林縣斗南鎮中天里中正路157號",
@@ -4991,7 +4991,7 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "鹿野大骨麵",
+    "name": "鹿野 大骨麵",
     "region": "台東",
     "cuisine": "台式",
     "address": "955台灣臺東縣鹿野鄉鹿野村中華路二段283號",
@@ -5001,7 +5001,7 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "一福味麵食館 東勢美食",
+    "name": "一福味麵食館 東勢美食「當天才可電話預訂」（11:15）後打_會依現場狀況接聽",
     "region": "台中",
     "cuisine": "台式",
     "address": "423台灣臺中市東勢區東安里中山路80號",
@@ -5011,8 +5011,8 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "401台中市東區樂業路186號",
-    "region": "台中",
+    "name": "No. 186, Leye Rd, Lecheng Village, East District",
+    "region": "未知",
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
@@ -5021,13 +5021,13 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "合鴨米灶腳《隱藏版美食》礁溪人氣美食｜推薦｜必吃餐廳｜傳統restaurants",
-    "region": "宜蘭",
+    "name": "HoYa Rice",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "262台灣宜蘭縣礁溪鄉德陽村信義路23號",
+    "address": "7395A Lee Hwy, Falls Church, VA 22042",
     "time": "",
-    "lat": "24.8260925",
-    "lon": "121.770487",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -5036,7 +5036,7 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.8998171",
+    "lat": "23.9626739",
     "lon": "121.0361271",
     "theme": "food"
   },
@@ -5061,17 +5061,17 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "北勢頭肉圓(FB粉絲專頁也有營業資訊)",
-    "region": "台中",
+    "name": "和美北勢頭肉圓✨️溫油炸、Q皮✨️(FB粉絲專頁也有營業資訊)⛔️無香菜⛔️",
+    "region": "彰化",
     "cuisine": "台式",
-    "address": "台灣臺中市沙鹿區福成路433號號, No. 10",
+    "address": "508台灣彰化縣和美鎮和南里中正路61號",
     "time": "",
-    "lat": "24.2236864",
-    "lon": "120.5684175",
+    "lat": "24.1124846",
+    "lon": "120.4964854",
     "theme": "food"
   },
   {
-    "name": "臺米菜飯TAIMIRICE",
+    "name": "臺米菜飯TAIMIRICE/創始店",
     "region": "未知",
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
@@ -5091,7 +5091,7 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "老張早餐吧- 宜蘭頭城人氣推薦早餐漢堡 傳統早餐 早午餐 銅板必吃美食 頭城好吃早餐店 衝浪客最愛早餐",
+    "name": "老張早餐吧- 宜蘭頭城早餐/早午餐",
     "region": "宜蘭",
     "cuisine": "台式",
     "address": "261台灣宜蘭縣頭城鎮城南里和平街92號",
@@ -5101,7 +5101,7 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "阿家牛肉火鍋",
+    "name": "阿家牛肉湯&火鍋",
     "region": "台南",
     "cuisine": "台式",
     "address": "702台灣臺南市南區大忠里中華南路一段78號",
@@ -5121,7 +5121,7 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "一鑫園小吃 （宜蘭羅東店）",
+    "name": "羅東一鑫園小吃、辦桌",
     "region": "宜蘭",
     "cuisine": "台式",
     "address": "265台灣宜蘭縣羅東鎮漢民里民權路205號",
@@ -5141,7 +5141,7 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "祿記包子",
+    "name": "祿記（包仔祿）",
     "region": "台南",
     "cuisine": "台式",
     "address": "700台灣臺南市中西區永華里開山路3巷27號",
@@ -5161,7 +5161,7 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "富狀元豬腳",
+    "name": "Fu Juang Yuan",
     "region": "台中",
     "cuisine": "台式",
     "address": "403台灣臺中市西區中興里美村路一段203號",
@@ -5181,7 +5181,7 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "神田屋日式家庭料理",
+    "name": "Kanda-ya Home Cooking",
     "region": "花蓮",
     "cuisine": "台式",
     "address": "970台灣花蓮縣花蓮市國安里林森路407號",
@@ -5191,7 +5191,7 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "劉山東牛肉麵",
+    "name": "Liu Shan Dong",
     "region": "台北",
     "cuisine": "台式",
     "address": "100台灣臺北市中正區黎明里開封街一段14巷2號",
@@ -5221,7 +5221,7 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "東隆古味麵食館",
+    "name": "東隆古味麵食館.鮮蝦餛飩",
     "region": "屏東",
     "cuisine": "台式",
     "address": "928台灣屏東縣東港鎮東隆里共和街19之1號",
@@ -5232,12 +5232,12 @@ const STORES_DATA = [
   },
   {
     "name": "金三益健康茶飲-永華店",
-    "region": "台南",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "702020台灣臺南市南區文華里永華路一段233巷1號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "22.9881171",
-    "lon": "120.1911425",
+    "lat": "22.9975406",
+    "lon": "120.2075727",
     "theme": "food"
   },
   {
@@ -5261,7 +5261,7 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "玉里橋頭臭豆腐-花蓮店",
+    "name": "Yuli Qiaotou Stinky Tofu",
     "region": "花蓮",
     "cuisine": "台式",
     "address": "97046台灣花蓮縣花蓮市主和里和平路55號",
@@ -5291,7 +5291,7 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "匠人冰研所",
+    "name": "Shokunin Ice Lab",
     "region": "台中",
     "cuisine": "台式",
     "address": "428台灣臺中市大雅區學府路101巷1號",
@@ -5361,13 +5361,13 @@ const STORES_DATA = [
     "theme": "food"
   },
   {
-    "name": "平安快炒",
-    "region": "嘉義",
+    "name": "Ping An Quick Stir Fry",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "604台灣嘉義縣竹崎鄉中和村中和村石桌21-10號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.4732173",
-    "lon": "120.698235",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -5616,8 +5616,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "337台灣桃園市大園區內定里內定十六街972號對面4-7魚池",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "25.0082235",
+    "lon": "121.2339414",
     "theme": "food"
   },
   {
@@ -5816,8 +5816,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "900台灣屏東縣屏東市公園里北平路2-1號",
     "time": "",
-    "lat": "22.6753176",
-    "lon": "120.4908653",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -5826,8 +5826,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "263台灣宜蘭縣壯圍鄉美城村大福路三段232巷20號",
     "time": "",
-    "lat": "24.7762382",
-    "lon": "121.7791937",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -5836,8 +5836,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "648台灣雲林縣西螺鎮中和里公正路204號",
     "time": "",
-    "lat": "23.8011596",
-    "lon": "120.4618887",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -6236,8 +6236,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.1971877",
-    "lon": "120.179544",
+    "lat": "23.2325169",
+    "lon": "120.1804841",
     "theme": "food"
   },
   {
@@ -6652,12 +6652,12 @@ const STORES_DATA = [
   },
   {
     "name": "Lover's Wharf",
-    "region": "新北",
+    "region": "未知",
     "cuisine": "景點",
-    "address": "251台灣新北市淡水區沙崙里觀海路199號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "25.1830233",
-    "lon": "121.4108016",
+    "lat": "",
+    "lon": "",
     "theme": "play"
   },
   {
@@ -7142,12 +7142,12 @@ const STORES_DATA = [
   },
   {
     "name": "Tai'an Railway Cultural Park",
-    "region": "台中",
+    "region": "未知",
     "cuisine": "景點",
-    "address": "舊車路1-24號, 龍井區, 台中市 434",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.1783852",
-    "lon": "120.533798",
+    "lat": "24.2297483",
+    "lon": "120.7169043",
     "theme": "play"
   },
   {
@@ -8064,7 +8064,7 @@ const STORES_DATA = [
     "name": "Caishengui Park",
     "region": "未知",
     "cuisine": "景點",
-    "address": "地址請至導航地圖查看",
+    "address": "7 Park Ln, Washington, VA 22747",
     "time": "",
     "lat": "",
     "lon": "",
@@ -8646,7 +8646,7 @@ const STORES_DATA = [
     "cuisine": "藝文觀光",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "25.1405066",
+    "lat": "25.1404195",
     "lon": "121.7969622",
     "theme": "play"
   },
@@ -8726,8 +8726,8 @@ const STORES_DATA = [
     "cuisine": "景點",
     "address": "966台灣臺東縣達仁鄉南田村",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "22.2698811",
+    "lon": "120.8887471",
     "theme": "play"
   },
   {
