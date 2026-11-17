@@ -494,7 +494,7 @@ const STORES_DATA = [
     "name": "Xincheng Pan-Fried Buns",
     "region": "未知",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "Phoenix, AZ 85004",
     "time": "",
     "lat": "",
     "lon": "",
@@ -692,12 +692,12 @@ const STORES_DATA = [
   },
   {
     "name": "舒食男孩滷味店",
-    "region": "台東",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "958台灣臺東縣池上鄉福文村中華路61號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.1257506",
-    "lon": "121.2167962",
+    "lat": "23.1258373",
+    "lon": "121.2169143",
     "theme": "food"
   },
   {
@@ -1926,8 +1926,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "700台灣臺南市中西區普濟里民族路三段17號",
     "time": "",
-    "lat": "22.9976246",
-    "lon": "120.1991883",
+    "lat": "22.9976396",
+    "lon": "120.1991012",
     "theme": "food"
   },
   {
@@ -2076,8 +2076,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "351台灣苗栗縣頭份市文化里八德二路277號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "24.7007543",
+    "lon": "120.8996899",
     "theme": "food"
   },
   {
@@ -3176,7 +3176,7 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.5280019",
+    "lat": "24.8833177",
     "lon": "121.5472414",
     "theme": "food"
   },
@@ -3316,7 +3316,7 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.677055",
+    "lat": "24.6767941",
     "lon": "121.7773604",
     "theme": "food"
   },
@@ -3946,8 +3946,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.08385",
-    "lon": "120.5415271",
+    "lat": "24.0831958",
+    "lon": "120.5410187",
     "theme": "food"
   },
   {
@@ -5742,12 +5742,12 @@ const STORES_DATA = [
   },
   {
     "name": "愛麵子餐館",
-    "region": "台中",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "423台灣臺中市東勢區東安里中山路45號後棟",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.2569598",
-    "lon": "120.8298138",
+    "lat": "24.6076605",
+    "lon": "121.0264957",
     "theme": "food"
   },
   {
@@ -5826,8 +5826,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "22.5738219",
-    "lon": "120.4782493",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -6914,7 +6914,7 @@ const STORES_DATA = [
     "name": "無",
     "region": "未知",
     "cuisine": "民宿",
-    "address": "地址請至導航地圖查看",
+    "address": "4501 N 32nd St, Phoenix, AZ 85018",
     "time": "",
     "lat": "",
     "lon": "",
@@ -7194,7 +7194,7 @@ const STORES_DATA = [
     "name": "Paradise Road",
     "region": "未知",
     "cuisine": "景點",
-    "address": "地址請至導航地圖查看",
+    "address": "4848 E Cactus Rd, Scottsdale, AZ 85254",
     "time": "",
     "lat": "",
     "lon": "",
@@ -7212,12 +7212,12 @@ const STORES_DATA = [
   },
   {
     "name": "Tai'an Railway Cultural Park",
-    "region": "台中",
+    "region": "未知",
     "cuisine": "景點",
-    "address": "舊車路1-24號, 龍井區, 台中市 434",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.1783852",
-    "lon": "120.533798",
+    "lat": "24.2297483",
+    "lon": "120.7169043",
     "theme": "play"
   },
   {
@@ -7471,7 +7471,7 @@ const STORES_DATA = [
     "theme": "play"
   },
   {
-    "name": "虎頭埤風景區管理所",
+    "name": "Hutoupi",
     "region": "台南",
     "cuisine": "景點",
     "address": "71242台灣臺南市新化區東榮里中興路42巷36號",
@@ -7924,7 +7924,7 @@ const STORES_DATA = [
     "name": "Qingren Hu",
     "region": "未知",
     "cuisine": "景點",
-    "address": "地址請至導航地圖查看",
+    "address": "1602 S 7th Ave, Phoenix, AZ 85007",
     "time": "",
     "lat": "",
     "lon": "",
@@ -8206,8 +8206,8 @@ const STORES_DATA = [
     "cuisine": "景點",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.1800992",
-    "lon": "121.6603411",
+    "lat": "24.167528",
+    "lon": "121.6579153",
     "theme": "play"
   },
   {
