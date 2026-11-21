@@ -332,9 +332,9 @@ const STORES_DATA = [
   },
   {
     "name": "Talowan",
-    "region": "未知",
+    "region": "南投",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "546台灣南投縣仁愛鄉春陽村仁和路信義巷25-1號",
     "time": "",
     "lat": "24.0255674",
     "lon": "121.1373262",
@@ -386,8 +386,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.7726974",
-    "lon": "120.7625464",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -492,12 +492,12 @@ const STORES_DATA = [
   },
   {
     "name": "Xincheng Pan-Fried Buns",
-    "region": "花蓮",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "971台灣花蓮縣新城鄉新城村博愛路48號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.1280334",
-    "lon": "121.6501756",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -562,12 +562,12 @@ const STORES_DATA = [
   },
   {
     "name": "阿隆師の店",
-    "region": "彰化",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "528台灣彰化縣芳苑鄉博愛村北頭巷7號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.9662796",
-    "lon": "120.3405514",
+    "lat": "23.540732",
+    "lon": "120.4963636",
     "theme": "food"
   },
   {
@@ -786,8 +786,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.8439306",
-    "lon": "121.1526425",
+    "lat": "24.3279581",
+    "lon": "120.9138277",
     "theme": "food"
   },
   {
@@ -1096,8 +1096,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.9087404",
-    "lon": "120.8695103",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -1124,7 +1124,7 @@ const STORES_DATA = [
     "name": "A Yuan Mutton Soup",
     "region": "未知",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "3752 E Indian School Rd, Phoenix, AZ 85018",
     "time": "",
     "lat": "",
     "lon": "",
@@ -1312,9 +1312,9 @@ const STORES_DATA = [
   },
   {
     "name": "溫爸鵝肉（數量有限 完售即收）",
-    "region": "台南",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "70444台灣臺南市北區長興里西門路三段274號",
+    "address": "地址請至導航地圖查看",
     "time": "",
     "lat": "23.0045849",
     "lon": "120.2051416",
@@ -1476,8 +1476,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.974677",
-    "lon": "121.4143082",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -1502,12 +1502,12 @@ const STORES_DATA = [
   },
   {
     "name": "幸福炒飯炒麵",
-    "region": "新竹",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "310台灣新竹縣竹東鎮榮華里朝陽路57號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.7425076",
-    "lon": "121.0860158",
+    "lat": "24.9634642",
+    "lon": "121.267994",
     "theme": "food"
   },
   {
@@ -1832,12 +1832,12 @@ const STORES_DATA = [
   },
   {
     "name": "榕樹下豆花",
-    "region": "未知",
+    "region": "雲林",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "640台灣雲林縣斗六市虎溪里文生路",
     "time": "",
-    "lat": "23.9012599",
-    "lon": "120.5347448",
+    "lat": "23.7123568",
+    "lon": "120.525711",
     "theme": "food"
   },
   {
@@ -2276,8 +2276,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.0518878",
-    "lon": "120.9197184",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -2546,7 +2546,7 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "25.128878",
+    "lat": "25.1293811",
     "lon": "121.7403393",
     "theme": "food"
   },
@@ -2932,12 +2932,12 @@ const STORES_DATA = [
   },
   {
     "name": "老阿伯現滷豆干",
-    "region": "未知",
+    "region": "桃園",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "335台灣桃園市大溪區興和里中正路37號",
     "time": "",
-    "lat": "24.8829226",
-    "lon": "121.2863418",
+    "lat": "24.8829454",
+    "lon": "121.2862657",
     "theme": "food"
   },
   {
@@ -3176,7 +3176,7 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.8833177",
+    "lat": "24.5280019",
     "lon": "121.5472414",
     "theme": "food"
   },
@@ -3586,8 +3586,8 @@ const STORES_DATA = [
     "cuisine": "海鮮",
     "address": "207台灣新北市萬里區龜吼里漁澳路11號",
     "time": "",
-    "lat": "",
-    "lon": "",
+    "lat": "25.194725",
+    "lon": "121.686707",
     "theme": "food"
   },
   {
@@ -3756,7 +3756,7 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.8130993",
+    "lat": "24.8215747",
     "lon": "121.7030157",
     "theme": "food"
   },
@@ -3836,8 +3836,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "265台灣宜蘭縣羅東鎮復興路二段257號",
     "time": "",
-    "lat": "24.690827",
-    "lon": "121.7641789",
+    "lat": "24.69088",
+    "lon": "121.7644135",
     "theme": "food"
   },
   {
@@ -4096,8 +4096,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "25.0277278",
-    "lon": "121.424645",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -4436,8 +4436,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.4787968",
-    "lon": "120.4500611",
+    "lat": "23.4789653",
+    "lon": "120.4499347",
     "theme": "food"
   },
   {
@@ -4602,12 +4602,12 @@ const STORES_DATA = [
   },
   {
     "name": "新鮮牛肉湯",
-    "region": "未知",
+    "region": "台南",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "701台灣臺南市東區東安里東門路二段91號",
     "time": "",
-    "lat": "22.9947191",
-    "lon": "120.2190173",
+    "lat": "22.9860277",
+    "lon": "120.2213424",
     "theme": "food"
   },
   {
@@ -5096,8 +5096,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.567085",
-    "lon": "121.2451031",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -5292,12 +5292,12 @@ const STORES_DATA = [
   },
   {
     "name": "金三益健康茶飲-永華店",
-    "region": "未知",
+    "region": "台南",
     "cuisine": "台式",
-    "address": "地址請至導航地圖查看",
+    "address": "702020台灣臺南市南區文華里永華路一段233巷1號",
     "time": "",
-    "lat": "22.9975406",
-    "lon": "120.2075727",
+    "lat": "22.9881171",
+    "lon": "120.1911425",
     "theme": "food"
   },
   {
@@ -5466,8 +5466,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "946台灣屏東縣恆春鎮城北里中正路131號",
     "time": "",
-    "lat": "22.0042117",
-    "lon": "120.7440212",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -5742,12 +5742,12 @@ const STORES_DATA = [
   },
   {
     "name": "愛麵子餐館",
-    "region": "台中",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "423台灣臺中市東勢區東安里中山路45號後棟",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.2569598",
-    "lon": "120.8298138",
+    "lat": "24.6076605",
+    "lon": "121.0264957",
     "theme": "food"
   },
   {
@@ -5832,12 +5832,12 @@ const STORES_DATA = [
   },
   {
     "name": "毛哥溫體牛肉湯",
-    "region": "花蓮",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "970台灣花蓮縣花蓮市民族里公園路2號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.9763381",
-    "lon": "121.6100721",
+    "lat": "23.9809714",
+    "lon": "121.6009557",
     "theme": "food"
   },
   {
@@ -5922,12 +5922,12 @@ const STORES_DATA = [
   },
   {
     "name": "麵茶冰",
-    "region": "台南",
+    "region": "未知",
     "cuisine": "台式",
-    "address": "734台灣臺南市六甲區六甲里仁愛街38號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.2306933",
-    "lon": "120.354007",
+    "lat": "",
+    "lon": "",
     "theme": "food"
   },
   {
@@ -5936,8 +5936,8 @@ const STORES_DATA = [
     "cuisine": "台式",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.2449469",
-    "lon": "121.0103577",
+    "lat": "23.4659837",
+    "lon": "120.4560362",
     "theme": "food"
   },
   {
@@ -7084,7 +7084,7 @@ const STORES_DATA = [
     "name": "Xu Hai Public Parking",
     "region": "未知",
     "cuisine": "景點",
-    "address": "1020 Q St, Sacramento, CA 95811",
+    "address": "地址請至導航地圖查看",
     "time": "",
     "lat": "",
     "lon": "",
@@ -7124,7 +7124,7 @@ const STORES_DATA = [
     "name": "Tiger Head Mountain Viewing Platform",
     "region": "未知",
     "cuisine": "景點",
-    "address": "4WGF+67F, Krabi Noi, Mueang Krabi District, Krabi 81000泰國",
+    "address": "2701 Piestewa Peak Dr, Phoenix, AZ 85016",
     "time": "",
     "lat": "",
     "lon": "",
@@ -7282,12 +7282,12 @@ const STORES_DATA = [
   },
   {
     "name": "中山溫泉公園泡腳池",
-    "region": "新北",
+    "region": "未知",
     "cuisine": "自然景觀",
-    "address": "208台灣新北市金山區大同里溫泉路3號",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "25.2216884",
-    "lon": "121.6404383",
+    "lat": "25.2216316",
+    "lon": "121.6404346",
     "theme": "play"
   },
   {
@@ -7352,12 +7352,12 @@ const STORES_DATA = [
   },
   {
     "name": "Fengguizui",
-    "region": "台北",
+    "region": "未知",
     "cuisine": "景點",
-    "address": "111台灣臺北市士林區",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "25.1370691",
-    "lon": "121.6027834",
+    "lat": "25.1346358",
+    "lon": "121.6000181",
     "theme": "play"
   },
   {
@@ -7676,8 +7676,8 @@ const STORES_DATA = [
     "cuisine": "景點",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "23.5958254",
-    "lon": "121.4646554",
+    "lat": "",
+    "lon": "",
     "theme": "play"
   },
   {
@@ -7832,12 +7832,12 @@ const STORES_DATA = [
   },
   {
     "name": "Hundred Years Banyan",
-    "region": "新北",
+    "region": "未知",
     "cuisine": "景點",
-    "address": "238台灣新北市樹林區民和街",
+    "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "24.9765645",
-    "lon": "121.3685125",
+    "lat": "",
+    "lon": "",
     "theme": "play"
   },
   {
@@ -8044,7 +8044,7 @@ const STORES_DATA = [
     "name": "Jialun Viewpoint",
     "region": "未知",
     "cuisine": "景點",
-    "address": "15652 SE Bluff Rd, Sandy, OR 97055",
+    "address": "85048, Arizona, Phoenix",
     "time": "",
     "lat": "",
     "lon": "",
@@ -8134,7 +8134,7 @@ const STORES_DATA = [
     "name": "Caishengui Park",
     "region": "未知",
     "cuisine": "景點",
-    "address": "80449科羅拉多",
+    "address": "地址請至導航地圖查看",
     "time": "",
     "lat": "",
     "lon": "",
@@ -8716,7 +8716,7 @@ const STORES_DATA = [
     "cuisine": "藝文觀光",
     "address": "地址請至導航地圖查看",
     "time": "",
-    "lat": "25.1404195",
+    "lat": "25.1405066",
     "lon": "121.7969622",
     "theme": "play"
   },
